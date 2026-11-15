@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Current-session queue merge",
+    "description": "Merge ordinary plain-text queued messages in the current session into one queued item; nothing is sent. DSH queue updates are non-atomic and concurrent edits can race.",
+    "detail": "README.md"
+  }
+}

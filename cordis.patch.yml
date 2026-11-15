@@ -1,0 +1,3 @@
+- insert:
+    - id: queue-message-merge
+      name: dsh-queue-message-merge
